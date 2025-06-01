@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
----
+![Visitor Count](https://profile-counter.glitch.me/Sulaiman29/count.svg)
 ### Thanks for Visiting my GitHub Profile!
 
 <picture>
