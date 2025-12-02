@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing my Masters in Software Engineering<br>👯 I’m looking to connect with developers and IT geeks<br>🤝 I’m looking to collaborate on diverse projects and ideas<br>🌱 I’m currently learning Java Spring boot<br>💬 Ask me about travel, hiking, and football<br>⚡ Fun fact: You would see me with a different hairstyle every season xD
+🔭 I’m currently doing my Masters in Software Engineering<br>👯 I’m looking to connect with developers and IT geeks<br>🤝 I’m looking to collaborate on diverse projects and ideas<br>🌱 I’m currently working on my Master Thesis<br>💬 Ask me about travel, hiking, and football<br>⚡ Fun fact: You would see me with a different hairstyle every season xD
 
 
 ## 🌐 Socials:
