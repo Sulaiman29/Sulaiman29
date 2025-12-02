@@ -16,7 +16,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sulaiman29&icon=0&color=0)](https://visitcount.itsvg.in)
+**<p align="center">**
+  **<img src="https://komarev.com/ghpvc/?username=sulaiman29&label=Profile%20views&color=8a2be2&style=flat" alt="Profile views"/>**
+**</p>**
 ### Thanks for Visiting my GitHub Profile!
 
 <picture>
