@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,elixir,erlang,go,html,graphql,java,js,kotlin,python,powershell,bash,ts,aws,azure,firebase,gcp,heroku,dotnet,kafka,django,express,fastapi,flask,nodejs,phoenix,react,redux,spring,tailwind,vue,vite,apache,jenkins,nginx,mysql,sqlite,redis,mongo,postgres,mssql,numpy,pandas,gitlab,githubactions,bitbucket,github,git,jira,kubernetes,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,elixir,dotnet,go,html,graphql,java,js,kotlin,python,powershell,bash,ts,aws,azure,firebase,gcp,heroku,dotnet,kafka,django,express,fastapi,flask,nodejs,react,redux,spring,tailwind,vue,vite,jenkins,nginx,mysql,sqlite,redis,mongo,postgres,gitlab,githubactions,bitbucket,github,git,azure,kubernetes,postman&perline=14" />
   </a>
 </p>
 
