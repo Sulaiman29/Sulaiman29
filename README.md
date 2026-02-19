@@ -1,5 +1,10 @@
-# 💫 About Me:
+
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer;Masters+Student+in+Estonia;Explorer;Dev+from+Pakistan" alt="Typing SVG" /></a>
+
+<img src="https://flagcdn.com/w40/pk.png" width="30"> **Pakistani Dev** living in <img src="https://flagcdn.com/w40/ee.png" width="30"> **Tallinn, Estonia**
+
 🔭 I’m currently doing my Masters in Software Engineering<br>👯 I’m looking to connect with developers and IT geeks<br>🤝 I’m looking to collaborate on diverse projects and ideas<br>🌱 I’m currently working on my Master Thesis<br>💬 Ask me about travel, hiking, and football<br>⚡ Fun fact: You would see me with a different hairstyle every season xD
+
 
 
 ## 🌐 Socials:
